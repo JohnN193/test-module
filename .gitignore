@@ -1,0 +1,9 @@
+bin
+module.tar.gz
+
+# Code editor settings
+.vscode
+   
+# artifact
+.artifact/cache
+.artifact/data
